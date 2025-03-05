@@ -1,0 +1,8 @@
+
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: zuojun-ning
+  description: Group for Zuojun Ning
+spec:
+  type: team
