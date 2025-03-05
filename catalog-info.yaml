@@ -1,0 +1,11 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: DO400-pipelines-lab
+  description: This is my GitHub repository component.
+  annotations:
+    github.com/project-slug: zuojun-ning/DO400-pipelines-lab
+spec:
+  type: service  # or library, documentation, website, etc.
+  owner: zuojun-ning
+  lifecycle: experimental
