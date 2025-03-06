@@ -6,3 +6,4 @@ metadata:
   description: Group for Zuojun Ning
 spec:
   type: team
+  children: []
